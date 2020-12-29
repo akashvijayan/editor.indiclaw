@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.520c7868.chunk.js",
-    "main.js.map": "/static/js/main.520c7868.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.feca612d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.feca612d.js.map",
-    "static/css/2.701ac23d.chunk.css": "/static/css/2.701ac23d.chunk.css",
-    "static/js/2.83fa1829.chunk.js": "/static/js/2.83fa1829.chunk.js",
-    "static/js/2.83fa1829.chunk.js.map": "/static/js/2.83fa1829.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0d6b247ae5354cc42249625c75924b80.js": "/precache-manifest.0d6b247ae5354cc42249625c75924b80.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.701ac23d.chunk.css.map": "/static/css/2.701ac23d.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.83fa1829.chunk.js.LICENSE.txt": "/static/js/2.83fa1829.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/editor.indiclaw/static/css/main.5f361e03.chunk.css",
+    "main.js": "/editor.indiclaw/static/js/main.0e53e21c.chunk.js",
+    "main.js.map": "/editor.indiclaw/static/js/main.0e53e21c.chunk.js.map",
+    "runtime-main.js": "/editor.indiclaw/static/js/runtime-main.a9de9111.js",
+    "runtime-main.js.map": "/editor.indiclaw/static/js/runtime-main.a9de9111.js.map",
+    "static/css/2.aae7357b.chunk.css": "/editor.indiclaw/static/css/2.aae7357b.chunk.css",
+    "static/js/2.eb7adef3.chunk.js": "/editor.indiclaw/static/js/2.eb7adef3.chunk.js",
+    "static/js/2.eb7adef3.chunk.js.map": "/editor.indiclaw/static/js/2.eb7adef3.chunk.js.map",
+    "index.html": "/editor.indiclaw/index.html",
+    "precache-manifest.8b893de202c464e0c8b81b0fd0c07e0b.js": "/editor.indiclaw/precache-manifest.8b893de202c464e0c8b81b0fd0c07e0b.js",
+    "service-worker.js": "/editor.indiclaw/service-worker.js",
+    "static/css/2.aae7357b.chunk.css.map": "/editor.indiclaw/static/css/2.aae7357b.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/editor.indiclaw/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb7adef3.chunk.js.LICENSE.txt": "/editor.indiclaw/static/js/2.eb7adef3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/editor.indiclaw/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.feca612d.js",
-    "static/css/2.701ac23d.chunk.css",
-    "static/js/2.83fa1829.chunk.js",
+    "static/js/runtime-main.a9de9111.js",
+    "static/css/2.aae7357b.chunk.css",
+    "static/js/2.eb7adef3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.520c7868.chunk.js"
+    "static/js/main.0e53e21c.chunk.js"
   ]
 }
