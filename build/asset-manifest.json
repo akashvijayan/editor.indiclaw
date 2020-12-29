@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/indiclawadmin/static/css/main.5f361e03.chunk.css",
+    "main.js": "/indiclawadmin/static/js/main.27c88652.chunk.js",
+    "main.js.map": "/indiclawadmin/static/js/main.27c88652.chunk.js.map",
+    "runtime-main.js": "/indiclawadmin/static/js/runtime-main.de3449c9.js",
+    "runtime-main.js.map": "/indiclawadmin/static/js/runtime-main.de3449c9.js.map",
+    "static/css/2.0b9b8d5d.chunk.css": "/indiclawadmin/static/css/2.0b9b8d5d.chunk.css",
+    "static/js/2.eb7adef3.chunk.js": "/indiclawadmin/static/js/2.eb7adef3.chunk.js",
+    "static/js/2.eb7adef3.chunk.js.map": "/indiclawadmin/static/js/2.eb7adef3.chunk.js.map",
+    "index.html": "/indiclawadmin/index.html",
+    "precache-manifest.bf091c7b74e81dfa8be22aa0c3cf2fd0.js": "/indiclawadmin/precache-manifest.bf091c7b74e81dfa8be22aa0c3cf2fd0.js",
+    "service-worker.js": "/indiclawadmin/service-worker.js",
+    "static/css/2.0b9b8d5d.chunk.css.map": "/indiclawadmin/static/css/2.0b9b8d5d.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/indiclawadmin/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb7adef3.chunk.js.LICENSE.txt": "/indiclawadmin/static/js/2.eb7adef3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/indiclawadmin/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de3449c9.js",
+    "static/css/2.0b9b8d5d.chunk.css",
+    "static/js/2.eb7adef3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.27c88652.chunk.js"
+  ]
+}
