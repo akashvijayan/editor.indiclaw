@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67a55169b67b82eebf2dcac9f4cad9c2",
+    "revision": "017e8d4dc14e1e61a6f69a90e3db51b5",
     "url": "/editor.indiclaw/index.html"
   },
   {
-    "revision": "869ba3de1dad1538c955",
+    "revision": "20194238dc990c2d16cc",
     "url": "/editor.indiclaw/static/css/2.aae7357b.chunk.css"
   },
   {
-    "revision": "5864f11904616a6dd874",
+    "revision": "f535c38891db89d6b30b",
     "url": "/editor.indiclaw/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "869ba3de1dad1538c955",
-    "url": "/editor.indiclaw/static/js/2.eb7adef3.chunk.js"
+    "revision": "20194238dc990c2d16cc",
+    "url": "/editor.indiclaw/static/js/2.c72bb509.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/editor.indiclaw/static/js/2.eb7adef3.chunk.js.LICENSE.txt"
+    "url": "/editor.indiclaw/static/js/2.c72bb509.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5864f11904616a6dd874",
-    "url": "/editor.indiclaw/static/js/main.0e53e21c.chunk.js"
+    "revision": "f535c38891db89d6b30b",
+    "url": "/editor.indiclaw/static/js/main.738cf3f8.chunk.js"
   },
   {
     "revision": "51930d110565528544b9",
