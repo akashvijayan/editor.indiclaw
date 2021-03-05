@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "017e8d4dc14e1e61a6f69a90e3db51b5",
+    "revision": "5d75ca61d59cc65655abde15af3983ff",
     "url": "/editor.indiclaw/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/editor.indiclaw/static/css/2.aae7357b.chunk.css"
   },
   {
-    "revision": "f535c38891db89d6b30b",
+    "revision": "f7ea15249db622c7930a",
     "url": "/editor.indiclaw/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/editor.indiclaw/static/js/2.c72bb509.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f535c38891db89d6b30b",
-    "url": "/editor.indiclaw/static/js/main.738cf3f8.chunk.js"
+    "revision": "f7ea15249db622c7930a",
+    "url": "/editor.indiclaw/static/js/main.0d83d996.chunk.js"
   },
   {
     "revision": "51930d110565528544b9",

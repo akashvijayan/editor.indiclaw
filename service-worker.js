@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/editor.indiclaw/precache-manifest.0f85dcf1ae0b74f3e8d6b60649a2dde1.js"
+  "/editor.indiclaw/precache-manifest.8b5ff16272f54c8cc175fbe9a4461652.js"
 );
 
 self.addEventListener('message', (event) => {
